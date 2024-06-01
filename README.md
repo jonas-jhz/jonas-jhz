@@ -1,18 +1,22 @@
-## Hi there 👋
+# **||------------------------------------| _Hello, friend._ |----------------------------------||**
+<br />
+
 
 <img height="310" src="gifs/skull.gif" align=right>
+<br />
+<br />
 
-<!--
-**jonas-jhz/jonas-jhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Just a guy trying to be something."*
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ In this profile, i'm solving programming questions and saving ideas of projects that i made;
+- 🧠 I'm currently learning cybersicurity and Machine Learning algorithms;
+- 🤓 I'm a student but i'm here to help if i could!
+- 🌱 Hope you find what you looking for!
+
+<br />
+<br />
+
+# **||-------------------------------------------------------------------------------------------||**
