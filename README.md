@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img height="310" src="gifs/skull.gif" align=right>
+
 <!--
 **jonas-jhz/jonas-jhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
