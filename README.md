@@ -1,24 +1,23 @@
-# **||------------------------| _Hello, friend._ |----------------------------||**
-<br />
+![](https://stats.pphat.top/stats?username=jonas-jhz)
+
+```
+# Hi everyone! 👋
+
+# I'm a Data Assistant at Deloitte and I study Computer Science at UNICAP.
+# Currently, i'm working on some full-stack and Arduino projects, and I really enjoy Linux and Python scripting.
+
+# Feel free to explore my profile!
+```
+---
+<h2 align="center">
+  
+***Focus on***
+
+</h2>
+
+![icon-collection-glow](https://stats.pphat.top/icons?name=python,databricks,php,java,postgresql,cplusplus,git,github,laravel,linux,kalilinux,webassembly,tailwindcss,html&effect=wave&columns=12&size=large&color=%230088CC,%239966CC,%230088CC,%230088CC,%230088CC,%230088CC,%239966CC,%230088CC,%230088CC,%230088CC,%230088CC,%230088CC)
 
 
-<img height="310" src="gifs/skull.gif" align=right>
-<br />
-<br />
 
-*"Just a guy trying to be something."*
 
-<br />
-<br />
-
-- 🖥️ In this profile, i'm solving programming questions and saving ideas of projects that i made;
-- 🧠 I'm currently learning cybersicurity and Machine Learning algorithms;
-- 🤓 I'm a student but i'm here to help you if i could!
-- 🌱 Hope you find what you are looking for!
-
-<br />
-<br />
-<br />
-<br />
-
-# **||-----------------------------------------------------------------------||**
+![graph-wave](https://stats.pphat.top/graph?username=jonas-jhz&animate=wave&theme=aurora)
