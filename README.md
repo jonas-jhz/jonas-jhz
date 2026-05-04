@@ -3,7 +3,7 @@
 ```
 # Hi everyone! 👋
 
-# I'm a Data Assistant at Deloitte and I study Computer Science at UNICAP.
+# I'm a Data Assistant and I study Computer Science at UNICAP.
 # Currently, i'm working on some full-stack and Arduino projects, and I really enjoy Linux and Python scripting.
 
 # Feel free to explore my profile!
